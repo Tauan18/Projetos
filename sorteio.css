@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+
+}
+
+body {
+    background-color: rgb(26, 175, 235);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.titulo-predominante{
+    display: block;
+    text-align: center;
+    margin: 10px;
+}
+
+input {
+    width: 100px;
+    height: 40px;
+
+    margin-left: 45%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    font-size: large;
+
+    border-radius: 10px;
+}
+
+.resultado-sorteio{
+    background-color: white;
+    
+    width: 100px;
+    height: 40px;
+
+    margin-left: 45%;
+    margin-top: 10px;
+    
+    border-radius: 10px;
+}
+
+
+
+
